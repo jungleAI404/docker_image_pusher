@@ -1,9 +1,8 @@
-redis:6-alpine
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
-langgenius/dify-plugin-daemon:0.0.1-local
+langgenius/dify-api:1.0.0-beta.1
+langgenius/dify-web:1.0.0-beta.1
+langgenius/dify-plugin-daemon:0.0.2-local
 certbot/certbot
-langgenius/qdrant:v1.7.3
+langgenius/qdrant:v1.8.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
