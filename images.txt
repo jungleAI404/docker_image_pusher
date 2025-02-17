@@ -1,6 +1,7 @@
-infiniflow/infinity:v0.6.0-dev3
-elasticsearch:8.11.3
-mysql:8.0.39
+postgres:15-alpine
+langgenius/dify-sandbox:0.2.10
+semitechnologies/weaviate:1.19.0
+ubuntu/squid:latest
 #支持私库 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
