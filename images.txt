@@ -1,5 +1,6 @@
-ghcr.io/conardli/easy-dataset:1.6.1
-hiyouga/llamafactory:latest
+tianshu-frontend:latest
+tianshu-backend:latest
+rustfs/rustfs:latest
 #支持私库 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
